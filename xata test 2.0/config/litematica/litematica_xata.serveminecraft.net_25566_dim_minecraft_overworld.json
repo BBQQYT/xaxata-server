@@ -1,0 +1,86 @@
+{
+  "selections": {
+    "mode": "SIMPLE"
+  },
+  "placements": {
+    "placements": [
+      {
+        "schematic": "F:\\TL\\.minecraft\\versions\\xata test 2.0\\schematics\\mapart (2).nbt",
+        "name": "mapart (2) (Converted Structure)",
+        "origin": [
+          10000,
+          70,
+          10000
+        ],
+        "rotation": "NONE",
+        "mirror": "NONE",
+        "ignore_entities": false,
+        "enabled": true,
+        "enable_render": true,
+        "render_enclosing_box": false,
+        "locked": false,
+        "locked_coords": 0,
+        "bb_color": 16757504,
+        "verifier_type": "all",
+        "placements": [
+          {
+            "name": "mapart (2) (Converted Structure)",
+            "placement": {
+              "pos": [
+                0,
+                0,
+                0
+              ],
+              "name": "mapart (2) (Converted Structure)",
+              "rotation": "NONE",
+              "mirror": "NONE",
+              "locked_coords": 0,
+              "enabled": true,
+              "rendering_enabled": true,
+              "ignore_entities": false
+            }
+          }
+        ]
+      }
+    ],
+    "selected": 0,
+    "origin_selected": true
+  },
+  "schematic_projects_manager": {},
+  "operation_mode": "PASTE_SCHEMATIC",
+  "render_range": {
+    "mode": "ALL",
+    "axis": "Y",
+    "layer_single": 0,
+    "layer_above": 0,
+    "layer_below": 0,
+    "layer_range_min": 0,
+    "layer_range_max": 0,
+    "hotkey_range_min": false,
+    "hotkey_range_max": false
+  },
+  "area_simple": {
+    "name": "Unnamed",
+    "current": "Unnamed",
+    "boxes": [
+      {
+        "pos1": [
+          0,
+          0,
+          0
+        ],
+        "pos2": [
+          0,
+          0,
+          0
+        ],
+        "name": "Unnamed"
+      }
+    ]
+  },
+  "tool_mode_data": {
+    "delete": {
+      "use_placement": false
+    }
+  }
+}

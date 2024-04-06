@@ -7,7 +7,7 @@
 		holdToAim = false
 		#A value to multiple the mouse sensitivity by when aiming down weapon sights. Go to (Options > Controls > Mouse Settings > ADS Sensitivity) in game to change this!
 		#Range: 0.0 ~ 2.0
-		aimDownSightSensitivity = 1.0
+		aimDownSightSensitivity = 2.0
 		#Press to use a burst fire a gun, if false, burst will become semi shoot
 		burstPress = true
 

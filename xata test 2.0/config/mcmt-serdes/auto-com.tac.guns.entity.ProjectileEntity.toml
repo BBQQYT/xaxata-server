@@ -1,0 +1,15 @@
+
+[[filters]]
+	name = "auto-com.tac.guns.entity.ProjectileEntity"
+	priority = 10
+
+	[filters.pools]
+
+		[filters.pools.primary]
+			name = "LEGACY"
+			params = {}
+
+	[filters.targets]
+		blacklist = ["com.tac.guns.entity.ProjectileEntity"]
+		whitelist = []
+
